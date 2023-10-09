@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MdAfrozAlam8
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Android App Development, Web Development, Game AI.
+- 💞️ I’m looking to collaborate on Android App Project
 
 
 <!---
