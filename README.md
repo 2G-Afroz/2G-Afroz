@@ -29,7 +29,7 @@ Welcome to my creative space on GitHub! I'm Md Afroz Alam, a dedicated developer
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/md-afroz-alam-2g-afroz) - Connect with me on LinkedIn for professional networking.
+- [LinkedIn](https://www.linkedin.com/in/md-afroz-alam-2g-afroz/) - Connect with me on LinkedIn for professional networking.
 
 ## 📬 Get In Touch
 
