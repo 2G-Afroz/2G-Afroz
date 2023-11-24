@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://your-image-url.com/your-image.jpg](https://avatars.githubusercontent.com/u/77494718?v=4)" alt="Md Afroz Alam">
+  <img src="https://avatars.githubusercontent.com/u/77494718?v=4" alt="Md Afroz Alam">
 </div>
 
 # 👋 Hello, I'm Md Afroz Alam - Developer & Innovator
