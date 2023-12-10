@@ -40,7 +40,7 @@ Welcome to my creative space on GitHub! I'm Md Afroz Alam, a dedicated developer
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2g-afroz&" alt="2g-afroz" /></p>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2g-afroz&show_icons=true&locale=en&layout=compact" alt="2g-afroz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2g-afroz&show_icons=true&locale=en&layout=compact" alt="2g-afroz" /></p>  
 
 
 ## 🌐 Let's Connect
